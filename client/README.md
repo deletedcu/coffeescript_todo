@@ -1,0 +1,1 @@
+## front-end was based on create-react-app cli

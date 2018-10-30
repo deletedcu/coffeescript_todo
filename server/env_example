@@ -1,0 +1,5 @@
+MONGOLAB_URI = mongodb://xxx:ppp.mlab.com:11111/to-do-list
+
+PORT = 3001
+
+DB_CONNECT_RETRY = 5000

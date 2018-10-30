@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Todo matches snapshot 1`] = `
+<div
+  className="todoDetail"
+>
+  <h2>
+    Todo Detail
+  </h2>
+</div>
+`;
